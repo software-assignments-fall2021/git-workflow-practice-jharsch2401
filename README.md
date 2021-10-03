@@ -1,6 +1,6 @@
 # A.I. Can Now Write Its Own Computer Code. That’s Good News for Humans.
 ## Cade Metz, New York Times
-[Article Link] (https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.html?searchResultPosition=7)
+![Article Link](https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.html?searchResultPosition=7)
 
 This article details an AI program that can write its own code to solve a plethora of problems. The AI can even interpret plain English commands, such as "give me snow falling on a black background," and output a visual of what was described. It can also solve typical coding interview style problems very quickly, as welll as write its own code. Codex can write in 12 languages, and translate between them. However, as impressive as it sounds, the creators estimate it is only fully accurate about 37% of the time, with lots of the produced code not running, containing security flaws, or producing incorrect outputs. These mistakes could often be quickly fixed by a human tweaking them, but this required the AI to be piloted by a skilled programmer.
 
