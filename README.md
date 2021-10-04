@@ -7,4 +7,5 @@ This article details an AI program that can write its own code to solve a pletho
 This article is very interesting to me because it covers a very topical concern: how quickly is AI evolving, and will it render humans obsolete in the fields it learns? In this case, we see that even as this AI becomes more sophisticated, this type of technology serves more as a very useful tool for software developers rather than a replacement. Skilled workers are needed to operate, command, and interpret the results of Codex. While AI could make people's jobs easier and more efficient, human creations still require humans to use. It's also interesting to observe that even in the computer science field that is resonsible for the AI that threatens other job markets, concerns of an AI takeover of skilled human labor are present and evolving as new technology is developed.
 <br>
 <br>
-I think the part about autocomplete for programming is really interesting. Something like that would be really helpful for people getting into program and probably make all programmers more productive
+<br>
+I think the part about autocomplete for programming is really interesting. Something like that would be really helpful for people getting into program and probably make all programmers more productive - Matt Diaz
